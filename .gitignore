@@ -1,0 +1,21 @@
+# Data — raw source files are large and often proprietary
+data/raw/
+data/interim/
+data/processed/
+data/external/
+
+# Track directory structure placeholders even in ignored dirs
+!data/**/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
