@@ -18,6 +18,11 @@ pip install -e .
 make pipeline
 ```
 
+## License
+
+- **Code** (`src/`, `tests/`, `notebooks/`): [MIT](LICENSE-CODE)
+- **Data** (`data/`): [CC BY 4.0](LICENSE-DATA)
+
 ## Citation
 
 See `CITATION.cff`.
